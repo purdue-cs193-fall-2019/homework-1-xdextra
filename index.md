@@ -1,3 +1,13 @@
+# Xavier Dextra's First CS193 Homework
+
+#Favorite things about Cs193: 
+- Instructor's seem like actual people, and seem very relatable  
+- Music is always playing before class starts, although some of it is questionable on whether it is good or not   
+- Good explanations on topics  
+- class seems to honestly only focus on useful things, which is extremely appreciated
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
